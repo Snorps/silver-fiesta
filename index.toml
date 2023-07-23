@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/deploy.yml"
-hash = "c269760e25adfae3ed69efca0eae94ca677d41caf5c882816fc2012101e2b03b"
+hash = "91ef63a9565a37a823199709fec60447f5d2c688aae981a70fb2841d99635364"
 
 [[files]]
 file = "build.bat"
