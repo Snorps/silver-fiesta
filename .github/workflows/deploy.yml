@@ -1,0 +1,12 @@
+name: deploy-development
+run-name: ${{ github.actor }} is deploying testing branch to remote.
+on: 
+  push:
+    branches: 
+      - main
+jobs:
+  deploy:
+    runs-on: [self-hosted, linux, x64, epic]
+    steps:
+      - run : rm -rf ../pack
+      - run: git clone --branch main git@github.com:Snorps/silver-fiesta.git ../pack
