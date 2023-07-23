@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "build.bat"
-hash = "62cf3f00feadefc0c66f0f1b22007e6e9d1fc3d49ece605b8f35398d681e043a"
+hash = "d2718c36b7ece4d06385525e11130e4ffa25bed1722cdf42896117946fd41b75"
 
 [[files]]
 file = "mods/canary-mc1.20(.1)-0.2.6.jar"
