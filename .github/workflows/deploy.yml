@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   deploy:
-    runs-on: [self-hosted, linux, x64, epic]
+    runs-on: [self-hosted]
     steps:
       - run : rm -rf ../pack
       - run: git clone --branch main git@github.com:Snorps/silver-fiesta.git ../pack
