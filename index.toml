@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "build.bat"
+hash = "62cf3f00feadefc0c66f0f1b22007e6e9d1fc3d49ece605b8f35398d681e043a"
+
+[[files]]
+file = "mods/canary-mc1.20(.1)-0.2.6.jar"
+hash = "3d9d2491b6176d97bed74d4e2aeb715088311e4087b2d8678db85f6e4759bc4b"
+
+[[files]]
+file = "mods/rubidium-0.6.5.jar"
+hash = "73c82d944dc4618939e78b6c478a1cd8b8ae445f552670f00a5c201718dd7742"
+
+[[files]]
+file = "mods/saturn-mc1.19.3-0.0.4.jar"
+hash = "0dae4d5302c35269f622b7975521139bd61547d991293326b5381ec6c8d7a271"
+
+[[files]]
+file = "mods/starlight-1.1.2+forge.1cda73c(1).jar"
+hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+
+[[files]]
+file = "mods/starlight-1.1.2+forge.1cda73c.jar"
+hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
