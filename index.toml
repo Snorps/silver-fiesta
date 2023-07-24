@@ -9,21 +9,21 @@ file = "build.bat"
 hash = "d2718c36b7ece4d06385525e11130e4ffa25bed1722cdf42896117946fd41b75"
 
 [[files]]
-file = "mods/canary-mc1.20(.1)-0.2.6.jar"
-hash = "3d9d2491b6176d97bed74d4e2aeb715088311e4087b2d8678db85f6e4759bc4b"
+file = "mods/canary.pw.toml"
+hash = "71118b3d4939f3742322fc852502e4b757ae26ee6d80302b8d4413b08b300a27"
+metafile = true
 
 [[files]]
-file = "mods/rubidium-0.6.5.jar"
-hash = "73c82d944dc4618939e78b6c478a1cd8b8ae445f552670f00a5c201718dd7742"
+file = "mods/rubidium.pw.toml"
+hash = "45e9f967f5f1fd3d33c8ba8bc79e886e05cb6c7b205cba9d89f8b1e24fcbf658"
+metafile = true
 
 [[files]]
-file = "mods/saturn-mc1.19.3-0.0.4.jar"
-hash = "0dae4d5302c35269f622b7975521139bd61547d991293326b5381ec6c8d7a271"
+file = "mods/saturn.pw.toml"
+hash = "ecdacaa9b787772e2d2d449a48d636443b5d2c49d311775a22d5c5e9edb987ea"
+metafile = true
 
 [[files]]
-file = "mods/starlight-1.1.2+forge.1cda73c(1).jar"
-hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
-
-[[files]]
-file = "mods/starlight-1.1.2+forge.1cda73c.jar"
-hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
