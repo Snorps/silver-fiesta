@@ -1,12 +1,12 @@
 name = "silver fiesta"
 author = "snorps"
-version = "1"
+version = "3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "11303f5cce642850b525f2c9dbbb455877b6757c5ea594013cee4d661d0da2d1"
+hash = "75cd6d18ba21f529eb961b83d6ff2f371f56d8374a889e6898c3a4ae9ae050ee"
 
 [versions]
 forge = "45.1.0"
