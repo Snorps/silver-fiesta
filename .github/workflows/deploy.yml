@@ -8,5 +8,5 @@ jobs:
   deploy:
     runs-on: [self-hosted]
     steps:
-      - run : rm -rf ../pack
-      - run: git clone --branch main git@github.com:Snorps/silver-fiesta.git ../pack
+      - run : rm -rf ~/www/html/snorpsnet/silver-fiesta/pack
+      - run: git clone --branch main git@github.com:Snorps/silver-fiesta.git ~/www/html/snorpsnet/silver-fiesta/pack
