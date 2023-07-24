@@ -6,11 +6,11 @@ hash = "6731d02766660ef00c11c7245f8e5856012b3f308de0443016f8e2657af36dce"
 
 [[files]]
 file = "build.bat"
-hash = "d2718c36b7ece4d06385525e11130e4ffa25bed1722cdf42896117946fd41b75"
+hash = "148aab797bab472f7ea7aa52f6ce84778b4af843b8b670003e465a12b2b10bd9"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "71118b3d4939f3742322fc852502e4b757ae26ee6d80302b8d4413b08b300a27"
+hash = "2d26c7ac6a4c473523e74faecf9aa76a4a66c01353c2bbf1debf95a56e9d0275"
 metafile = true
 
 [[files]]
